@@ -9,7 +9,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **UIH for starting war against Global Warming**  
+- 🔭 I’m currently working on **Developing AI-driven solutions to combat Urban Heat Islands and reduce global warming effects**  
 - 🌱 I’m currently learning **MLOps best practices**  
 - 👯 I’m looking to collaborate on **AI-powered price prediction models**  
 - 💬 Ask me about **Machine Learning & AI, Flask & Streamlit for deployment, MLOps best practices**  
